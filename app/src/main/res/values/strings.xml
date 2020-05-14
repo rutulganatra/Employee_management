@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="facebook_app_id">YOUR APP ID</string>
+    <string name="fb_login_protocol_scheme">YOUR APP ID</string>
+    <string name="string_login">Login</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="delete_dialog_title">Delete</string>
+    <string name="delete_dialog_message">Are you sure you want to delete all the data?</string>
+    <string name="error_msg_image">Please select image</string>
+    <string name="error_msg_email">Please enter your email</string>
+    <string name="error_msg_name">Please enter your name</string>
+    <string name="error_msg_salary">Please enter your salary</string>
+    <string name="error_msg_address">Please enter your address</string>
+    <string name="error_msg_contact">Please enter your contact number</string>
+    <string name="error_msg_gender">Please select your gender</string>
+    <string name="error_msg_desgination">Please select your designation</string>
+    <string name="error_msg_about">Please add description</string>
+    <string name="msg_loading">Loading...</string>
+    <string name="error_network">No network</string>
+    <string name="toast_message">Please turn on your internet</string>
+    <string name="toolbar_title">Employees</string>
+    <string name="check_text_select_all">Select All</string>
+    <string name="delete_btn_text">Delete</string>
+    <string name="no_data_msg">No Data found!</string>
+
+    <string-array name="designation">
+        <item>Select your designation</item>
+        <item>Trainee Engineer</item>
+        <item>Software Engineer</item>
+        <item>System Analyst</item>
+        <item>Programmer Analyst</item>
+        <item>Senior Software Engineer</item>
+        <item>Project Lead</item>
+        <item>Project Manager</item>
+        <item>Program Manager</item>
+        <item>Technical Specialist</item>
+        <item>Deliver Manager</item>
+        <item>Delivery Head</item>
+        <item>Business Analyst</item>
+        <item>Director Technology</item>
+        <item>Director</item>
+        <item>Vice President</item>
+        <item>President</item>
+        <item>CEO</item>
+    </string-array>
+</resources>
